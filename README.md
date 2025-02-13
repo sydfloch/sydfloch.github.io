@@ -1,1 +1,1 @@
-# sydfloch-Lehigh.github.io
+# sydfloch.github.io

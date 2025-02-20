@@ -8,6 +8,6 @@ Hi! My name is [Sydney Floch](www.linkedin.com/in/sydney-floch-153947291), and I
 
 ## Where do students come from to attend Lehigh? 
 
-To many, Lehigh is considered a "Northeast" school, assuming that the majority of undergraduate students come from New England and the Tri-State area. Is this true? Utilizing data from [Lehigh's Office of Institutional Data,](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) it turns out that approximately one third of the undergraduate student body is from other states -- not just Pennsylvania, New Jersey or New York. Conversely, 6.7% of students come from outside of the United States to attend Lehigh.
+To many, Lehigh is considered a "Northeast" school, assuming that the majority of undergraduate students come from New England and the Tri-State area. Is this true? Utilizing data from [Lehigh's Office of Institutional Data,](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) it turns out that approximately one third of the undergraduate student body is from other states -- not just Pennsylvania, New Jersey or New York. Conversely, 6.7% of students come from outside of the United States to attend Lehigh. This graphic was created using Canva.
   
 ![infographic](https://github.com/sydfloch/sydfloch.github.io/blob/main/Lehigh%20Student%20Demographics%20Fall24.png?raw=true)

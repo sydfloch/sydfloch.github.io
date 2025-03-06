@@ -22,3 +22,7 @@ Artificial Intelligence has become integrated into several aspects of American l
  ## Fall 2024 Lehigh University Undergraduate Enrollment
 
  ![Fall 2024 Lehigh University Undergraduate Enrollment](https://github.com/sydfloch/sydfloch.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+## How Many People in the United States have Food Allergies?
+
+![Image](https://github.com/sydfloch/sydfloch.github.io/blob/main/Food_Allergies_in_the_US_from_2018-2019_People_with_the_Allergies_(by_millions)_chartbuilder.png?raw=true) 

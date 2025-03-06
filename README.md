@@ -17,3 +17,9 @@ To many, Lehigh is considered a "Northeast" school, assuming that the majority o
 Artificial Intelligence has become integrated into several aspects of American life: academics, the workforce, and entertainment. [Pew Research Center](https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/) conducted research, published in 2023, detailing survey results from 11,201 American adults. Trust in AI has decreased as time goes on in all aspects of the data shown below. Pew Research Center shows that the expression of more concern than excitement has increased over 15% from 2021-2023. Displayed excitement also decreased from 18% to 10% over the three years. 
 
  ![bar graph](https://github.com/sydfloch/sydfloch.github.io/blob/main/American%20Trust%20in%20AI.png?raw=true) 
+
+
+ ## Fall 2024 Lehigh University Undergraduate Enrollment
+
+ ![alt tag]
+ ![Fall 2024 Lehigh University Undergraduate Enrollment]https://github.com/sydfloch/sydfloch.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true

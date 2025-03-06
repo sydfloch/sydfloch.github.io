@@ -21,5 +21,4 @@ Artificial Intelligence has become integrated into several aspects of American l
 
  ## Fall 2024 Lehigh University Undergraduate Enrollment
 
- ![alt tag]
- ![Fall 2024 Lehigh University Undergraduate Enrollment]https://github.com/sydfloch/sydfloch.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true
+ ![Fall 2024 Lehigh University Undergraduate Enrollment](https://github.com/sydfloch/sydfloch.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)

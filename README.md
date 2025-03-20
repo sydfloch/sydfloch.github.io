@@ -26,3 +26,8 @@ Artificial Intelligence has become integrated into several aspects of American l
 ## How Many People in the United States have Food Allergies?
 
 ![Image](https://github.com/sydfloch/sydfloch.github.io/blob/main/Food_Allergies_in_the_US_from_2018-2019_People_with_the_Allergies_(by_millions)_chartbuilder.png?raw=true) 
+
+
+## Top 20 Cycling Cities in 2019
+
+![map]<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1k5uMtg-fMcBkt3UL05PSqVMbzPmb_8o&ehbc=2E312F" width="640" height="480"></iframe>

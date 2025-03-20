@@ -30,4 +30,4 @@ Artificial Intelligence has become integrated into several aspects of American l
 
 ## Top 20 Cycling Cities in 2019
 
-]<iframe ![map]src="(https://www.google.com/maps/d/u/0/embed?mid=1k5uMtg-fMcBkt3UL05PSqVMbzPmb_8o&ehbc=2E312F)" width="640" height="480"></iframe>
+<iframe ![map]src="(https://www.google.com/maps/d/u/0/embed?mid=1k5uMtg-fMcBkt3UL05PSqVMbzPmb_8o&ehbc=2E312F)" width="640" height="480"></iframe>

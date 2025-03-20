@@ -30,9 +30,13 @@ Artificial Intelligence has become integrated into several aspects of American l
 
 ## Top 20 Cycling Cities in 2019
 
+Wired Magazine published the top 20 most prominent cycling cities. Source: https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/ 
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1k5uMtg-fMcBkt3UL05PSqVMbzPmb_8o&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ## Top 5 Most Densely Populated Cities in the World
+
+According to Population Education, the following are considered the most densely populated cities in the world. They are measured by number of people per kilometer, ranging in various continents. (Source: https://admin.ask-aladdin.com/photos/egypt/travel-guides/tanta/ta-eg-askaladdin.webp)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jjRPMQCtYPZPIvTOsldndHaE7cO0qaI&ehbc=2E312F" width="640" height="480"></iframe>

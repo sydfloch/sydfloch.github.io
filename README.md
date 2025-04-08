@@ -27,6 +27,11 @@ Artificial Intelligence has become integrated into several aspects of American l
 
 ![Image](https://github.com/sydfloch/sydfloch.github.io/blob/main/Food_Allergies_in_the_US_from_2018-2019_People_with_the_Allergies_(by_millions)_chartbuilder.png?raw=true) 
 
+## Timeline of Marty Baron's Career
+
+Martin "Marty" Baron is arguably one of Lehigh's most notable alumni, especially from the university's journalism department. Marty has been invited back to Lehigh to discuss his career. He is known for serving as an editor of The Boston Globe during the paper's investigative team's (called Spotlight) discovery of allegations of sexual abuse within the Roman Catholic Church, and its attempts to cover up. Actor Liev Schriber played Marty in the 2015 movie SpotlightI, covering this time in his career. Click to see more of what brought Marty to this moment, and how his career developed.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JaiBHwHv9Eo3osG_0uqYSDGr-9B1rIsZC6FVqSypYOM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Top 20 Cycling Cities in 2019
 
